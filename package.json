@@ -1,5 +1,5 @@
 {
-    "name": "wp-scripts",
+    "name": "wp-scripts-theme",
     "version": "0.0.1",
     "description": "A boilerplate WordPress theme using wp-scripts",
     "main": "index.js",
@@ -11,5 +11,5 @@
     },
     "devDependencies": {
         "@wordpress/scripts": "^12.2.1"
-    },
+    }
 }
