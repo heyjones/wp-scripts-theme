@@ -1,4 +1,4 @@
-#wp-scrips-theme
+# wp-scrips-theme
 
 This boilerplate WordPress theme is based on wp-scripts. It comes with separate admin and theme builds out of the box, but additional builds can be appended by following the same pattern.
 
