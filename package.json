@@ -1,0 +1,15 @@
+{
+    "name": "wp-scripts",
+    "version": "0.0.1",
+    "description": "A boilerplate WordPress theme using wp-scripts",
+    "main": "index.js",
+    "author": "Chris Jones",
+    "license": "GNU",
+    "scripts": {
+        "build": "wp-scripts build src/admin.js src/theme.js",
+        "start": "wp-scripts start src/admin.js src/theme.js"
+    },
+    "devDependencies": {
+        "@wordpress/scripts": "^12.2.1"
+    },
+}
